@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Paragraphs</title>
+</head>
+<body>
+    <p> This is a paragraph in HTML. </p>
+    <p> I am a paragraph without any styling. </p>
+    <p style="text-align: left;"> I am a paragraph at the left side.</p>
+    <p style="text-align: right"> I am a paragraph at the right side. </p>
+    <p style="text-align: center"> I am a paragraph at the center of the screen.</p>
+    <p style="font-size:20px"> I am a 20px font sized paragraph. </p>
+    <p style="font-family: Cambria;"> I am a paragraph with font family cambria.</p>
+    <p style="color: red"> I am a paragraph with font color yellow.</p>
+    <p style="font-weight: bold"> I am a bolded text paragraph.</p>
+
+</body>
+</html>

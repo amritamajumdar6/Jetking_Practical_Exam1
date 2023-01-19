@@ -1,0 +1,11 @@
+Q.1) Define HTML Links.
+
+Ans. HTML links are the hyperlinks that is used to go to a new document or page directly.
+
+
+The syntax used for HTML links :
+<a href=" "> </a>   ["a" is the anchor element here]
+
+
+Example of HTML Link:
+<a href="https://jetking.com/"> Official Website Link of Jetking. </a>
